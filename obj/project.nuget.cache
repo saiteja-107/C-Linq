@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n9FcbLIX79k=",
+  "success": true,
+  "projectFilePath": "/Users/kst/Desktop/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/kst/.nuget/packages/dumpify/0.6.0/dumpify.0.6.0.nupkg.sha512",
+    "/Users/kst/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
+    "/Users/kst/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
